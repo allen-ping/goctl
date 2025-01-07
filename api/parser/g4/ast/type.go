@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+	"github.com/allen-ping/goctl/v2/api/parser/g4/gen/api"
 )
 
 type (

@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/model/sql/model"
-	"github.com/SinTod/goctl/v2/model/sql/util"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/model/sql/model"
+	"github.com/allen-ping/goctl/v2/model/sql/util"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"github.com/stretchr/testify/assert"
 )
 

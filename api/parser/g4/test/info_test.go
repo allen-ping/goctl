@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/SinTod/goctl/v2/api/parser/g4/ast"
-	"github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+	"github.com/allen-ping/goctl/v2/api/parser/g4/ast"
+	"github.com/allen-ping/goctl/v2/api/parser/g4/gen/api"
 	"github.com/stretchr/testify/assert"
 )
 

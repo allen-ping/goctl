@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+import "github.com/allen-ping/goctl/v2/api/parser/g4/gen/api"
 
 // SyntaxExpr describes syntax for api
 type SyntaxExpr struct {

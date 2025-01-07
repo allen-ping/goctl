@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/SinTod/goctl/v2/api/util"
+	"github.com/allen-ping/goctl/v2/api/util"
 	"github.com/iancoleman/strcase"
 )
 

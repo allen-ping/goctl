@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+import "github.com/allen-ping/goctl/v2/api/parser/g4/gen/api"
 
 // InfoExpr defines info syntax for api
 type InfoExpr struct {

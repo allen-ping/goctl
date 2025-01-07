@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"text/template"
 
-	"github.com/SinTod/goctl/v2/internal/errorx"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/internal/errorx"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 )
 
 const regularPerm = 0o666

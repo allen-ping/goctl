@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/util/ctx"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/util/ctx"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"gopkg.in/yaml.v2"
 )
 

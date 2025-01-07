@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/util/pathx"
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/vars"
 	"github.com/stretchr/testify/assert"
 )
 

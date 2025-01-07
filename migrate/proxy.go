@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/rpc/execx"
+	"github.com/allen-ping/goctl/v2/rpc/execx"
 	"github.com/zeromicro/go-zero/core/stringx"
 )
 

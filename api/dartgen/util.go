@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/api/spec"
-	"github.com/SinTod/goctl/v2/api/util"
+	"github.com/allen-ping/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/api/util"
 )
 
 const (

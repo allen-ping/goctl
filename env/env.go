@@ -3,7 +3,7 @@ package env
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/pkg/env"
+	"github.com/allen-ping/goctl/v2/pkg/env"
 	"github.com/spf13/cobra"
 )
 

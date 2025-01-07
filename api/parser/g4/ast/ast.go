@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
-	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/allen-ping/goctl/v2/api/parser/g4/gen/api"
+	"github.com/allen-ping/goctl/v2/util/console"
 	"github.com/zeromicro/antlr"
 )
 

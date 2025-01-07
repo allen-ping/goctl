@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/api/parser"
+	"github.com/allen-ping/goctl/v2/api/parser"
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 )

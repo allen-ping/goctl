@@ -3,8 +3,8 @@ package token
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/pkg/parser/api/placeholder"
-	"github.com/SinTod/goctl/v2/util"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/placeholder"
+	"github.com/allen-ping/goctl/v2/util"
 )
 
 const (

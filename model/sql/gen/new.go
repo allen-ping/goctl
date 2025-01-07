@@ -3,9 +3,9 @@ package gen
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/model/sql/template"
-	"github.com/SinTod/goctl/v2/util"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/model/sql/template"
+	"github.com/allen-ping/goctl/v2/util"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 )
 
 func genNew(table Table, withCache, postgreSql bool) (string, error) {

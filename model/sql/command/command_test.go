@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/model/sql/gen"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/model/sql/gen"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"github.com/stretchr/testify/assert"
 )
 

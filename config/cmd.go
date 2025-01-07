@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/SinTod/goctl/v2/internal/cobrax"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/internal/cobrax"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"github.com/spf13/cobra"
 )
 

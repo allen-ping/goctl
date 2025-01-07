@@ -5,11 +5,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/api/spec"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/ast"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/importstack"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/placeholder"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/token"
+	"github.com/allen-ping/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/ast"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/importstack"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/placeholder"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/token"
 	"github.com/zeromicro/go-zero/core/lang"
 )
 

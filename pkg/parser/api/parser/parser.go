@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/pkg/parser/api/ast"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/scanner"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/token"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/ast"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/scanner"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/token"
 )
 
 const (

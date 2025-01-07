@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/SinTod/goctl/v2/compare/testdata"
-	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/allen-ping/goctl/v2/compare/testdata"
+	"github.com/allen-ping/goctl/v2/util/console"
 	"github.com/spf13/cobra"
 )
 

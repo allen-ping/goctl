@@ -3,8 +3,8 @@ package eventlogic
 import (
 	"context"
 
-	"github.com/SinTod/goctl/v2/example/rpc/hi/internal/svc"
-	"github.com/SinTod/goctl/v2/example/rpc/hi/pb/hi"
+	"github.com/allen-ping/goctl/v2/example/rpc/hi/internal/svc"
+	"github.com/allen-ping/goctl/v2/example/rpc/hi/pb/hi"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 

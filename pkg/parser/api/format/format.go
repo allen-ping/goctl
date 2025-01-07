@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/SinTod/goctl/v2/pkg/parser/api/parser"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/parser"
 )
 
 // File formats the api file.

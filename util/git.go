@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/util/env"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/util/env"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 )
 
 func CloneIntoGitHome(url, branch string) (dir string, err error) {

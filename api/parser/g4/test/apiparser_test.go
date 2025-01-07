@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/api/parser/g4/ast"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/api/parser/g4/ast"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"github.com/stretchr/testify/assert"
 )
 

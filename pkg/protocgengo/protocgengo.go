@@ -4,10 +4,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SinTod/goctl/v2/pkg/goctl"
-	"github.com/SinTod/goctl/v2/pkg/golang"
-	"github.com/SinTod/goctl/v2/rpc/execx"
-	"github.com/SinTod/goctl/v2/util/env"
+	"github.com/allen-ping/goctl/v2/pkg/goctl"
+	"github.com/allen-ping/goctl/v2/pkg/golang"
+	"github.com/allen-ping/goctl/v2/rpc/execx"
+	"github.com/allen-ping/goctl/v2/util/env"
 )
 
 const (

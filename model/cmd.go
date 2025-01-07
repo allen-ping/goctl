@@ -1,9 +1,9 @@
 package model
 
 import (
-	"github.com/SinTod/goctl/v2/internal/cobrax"
-	"github.com/SinTod/goctl/v2/model/mongo"
-	"github.com/SinTod/goctl/v2/model/sql/command"
+	"github.com/allen-ping/goctl/v2/internal/cobrax"
+	"github.com/allen-ping/goctl/v2/model/mongo"
+	"github.com/allen-ping/goctl/v2/model/sql/command"
 )
 
 var (

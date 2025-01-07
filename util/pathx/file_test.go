@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/internal/version"
+	"github.com/allen-ping/goctl/v2/internal/version"
 	"github.com/stretchr/testify/assert"
 )
 

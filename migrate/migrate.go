@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SinTod/goctl/v2/util/console"
-	"github.com/SinTod/goctl/v2/util/ctx"
+	"github.com/allen-ping/goctl/v2/util/console"
+	"github.com/allen-ping/goctl/v2/util/ctx"
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 )

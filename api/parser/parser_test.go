@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/api/spec"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package generate
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/model/mongo/template"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/model/mongo/template"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 )
 
 const (

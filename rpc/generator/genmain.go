@@ -6,12 +6,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	conf "github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/rpc/parser"
-	"github.com/SinTod/goctl/v2/util"
-	"github.com/SinTod/goctl/v2/util/format"
-	"github.com/SinTod/goctl/v2/util/pathx"
-	"github.com/SinTod/goctl/v2/util/stringx"
+	conf "github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/rpc/parser"
+	"github.com/allen-ping/goctl/v2/util"
+	"github.com/allen-ping/goctl/v2/util/format"
+	"github.com/allen-ping/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/util/stringx"
 )
 
 //go:embed main.tpl

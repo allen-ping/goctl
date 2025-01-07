@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/api/spec"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/assertx"
+	"github.com/allen-ping/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/assertx"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/api/spec"
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/util/format"
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/util/format"
+	"github.com/allen-ping/goctl/v2/vars"
 )
 
 const (

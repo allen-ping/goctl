@@ -5,11 +5,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SinTod/goctl/v2/pkg/env"
-	"github.com/SinTod/goctl/v2/pkg/protoc"
-	"github.com/SinTod/goctl/v2/pkg/protocgengo"
-	"github.com/SinTod/goctl/v2/pkg/protocgengogrpc"
-	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/allen-ping/goctl/v2/pkg/env"
+	"github.com/allen-ping/goctl/v2/pkg/protoc"
+	"github.com/allen-ping/goctl/v2/pkg/protocgengo"
+	"github.com/allen-ping/goctl/v2/pkg/protocgengogrpc"
+	"github.com/allen-ping/goctl/v2/util/console"
 	"github.com/spf13/cobra"
 )
 

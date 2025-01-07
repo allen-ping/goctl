@@ -1,8 +1,8 @@
 package migrationnotes
 
 import (
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/util/format"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/util/format"
 )
 
 // BeforeCommands run before comamnd run to show some migration notes

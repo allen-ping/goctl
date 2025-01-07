@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/model/sql/parser"
-	"github.com/SinTod/goctl/v2/util/stringx"
+	"github.com/allen-ping/goctl/v2/model/sql/parser"
+	"github.com/allen-ping/goctl/v2/util/stringx"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/pkg/parser/api/assertx"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/ast"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/token"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/assertx"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/ast"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/token"
 	"github.com/stretchr/testify/assert"
 )
 

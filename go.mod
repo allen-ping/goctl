@@ -1,4 +1,4 @@
-module github.com/SinTod/goctl/v2
+module github.com/allen-ping/goctl/v2
 
 go 1.22
 

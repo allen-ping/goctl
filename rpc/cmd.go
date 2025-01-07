@@ -1,9 +1,9 @@
 package rpc
 
 import (
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/internal/cobrax"
-	"github.com/SinTod/goctl/v2/rpc/cli"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/internal/cobrax"
+	"github.com/allen-ping/goctl/v2/rpc/cli"
 	"github.com/spf13/cobra"
 )
 

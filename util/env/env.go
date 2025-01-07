@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/vars"
 )
 
 const (

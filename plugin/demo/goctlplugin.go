@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/v2/plugin"
+	"github.com/allen-ping/goctl/v2/plugin"
 )
 
 func main() {

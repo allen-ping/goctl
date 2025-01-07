@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/pkg/env"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/pkg/env"
 	"github.com/zeromicro/ddl-parser/parser"
 )
 

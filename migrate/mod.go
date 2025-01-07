@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/SinTod/goctl/v2/rpc/execx"
-	"github.com/SinTod/goctl/v2/util/console"
-	"github.com/SinTod/goctl/v2/util/ctx"
+	"github.com/allen-ping/goctl/v2/rpc/execx"
+	"github.com/allen-ping/goctl/v2/util/console"
+	"github.com/allen-ping/goctl/v2/util/ctx"
 	"github.com/zeromicro/go-zero/core/stringx"
 )
 

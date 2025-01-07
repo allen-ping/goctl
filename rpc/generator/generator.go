@@ -3,9 +3,9 @@ package generator
 import (
 	"log"
 
-	conf "github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/env"
-	"github.com/SinTod/goctl/v2/util/console"
+	conf "github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/env"
+	"github.com/allen-ping/goctl/v2/util/console"
 )
 
 // Generator defines the environment needs of rpc service generation

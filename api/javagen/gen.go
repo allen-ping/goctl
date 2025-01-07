@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/api/parser"
-	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/api/parser"
+	"github.com/allen-ping/goctl/v2/util/pathx"
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"

@@ -8,12 +8,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/pkg/downloader"
-	"github.com/SinTod/goctl/v2/pkg/goctl"
-	"github.com/SinTod/goctl/v2/rpc/execx"
-	"github.com/SinTod/goctl/v2/util/env"
-	"github.com/SinTod/goctl/v2/util/zipx"
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/pkg/downloader"
+	"github.com/allen-ping/goctl/v2/pkg/goctl"
+	"github.com/allen-ping/goctl/v2/rpc/execx"
+	"github.com/allen-ping/goctl/v2/util/env"
+	"github.com/allen-ping/goctl/v2/util/zipx"
+	"github.com/allen-ping/goctl/v2/vars"
 )
 
 var url = map[string]string{

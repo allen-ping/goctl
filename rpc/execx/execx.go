@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/util/pathx"
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/vars"
 )
 
 // RunFunc defines a function type of Run function

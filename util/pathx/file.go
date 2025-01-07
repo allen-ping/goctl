@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/internal/version"
+	"github.com/allen-ping/goctl/v2/internal/version"
 	"github.com/gookit/color"
 )
 

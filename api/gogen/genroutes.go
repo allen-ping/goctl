@@ -10,11 +10,11 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/SinTod/goctl/v2/api/spec"
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/util/format"
-	"github.com/SinTod/goctl/v2/util/pathx"
-	"github.com/SinTod/goctl/v2/vars"
+	"github.com/allen-ping/goctl/v2/api/spec"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/util/format"
+	"github.com/allen-ping/goctl/v2/util/pathx"
+	"github.com/allen-ping/goctl/v2/vars"
 	"github.com/zeromicro/go-zero/core/collection"
 )
 

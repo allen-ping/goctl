@@ -1,19 +1,19 @@
 package api
 
 import (
-	"github.com/SinTod/goctl/v2/api/apigen"
-	"github.com/SinTod/goctl/v2/api/dartgen"
-	"github.com/SinTod/goctl/v2/api/docgen"
-	"github.com/SinTod/goctl/v2/api/format"
-	"github.com/SinTod/goctl/v2/api/gogen"
-	"github.com/SinTod/goctl/v2/api/javagen"
-	"github.com/SinTod/goctl/v2/api/ktgen"
-	"github.com/SinTod/goctl/v2/api/new"
-	"github.com/SinTod/goctl/v2/api/tsgen"
-	"github.com/SinTod/goctl/v2/api/validate"
-	"github.com/SinTod/goctl/v2/config"
-	"github.com/SinTod/goctl/v2/internal/cobrax"
-	"github.com/SinTod/goctl/v2/plugin"
+	"github.com/allen-ping/goctl/v2/api/apigen"
+	"github.com/allen-ping/goctl/v2/api/dartgen"
+	"github.com/allen-ping/goctl/v2/api/docgen"
+	"github.com/allen-ping/goctl/v2/api/format"
+	"github.com/allen-ping/goctl/v2/api/gogen"
+	"github.com/allen-ping/goctl/v2/api/javagen"
+	"github.com/allen-ping/goctl/v2/api/ktgen"
+	"github.com/allen-ping/goctl/v2/api/new"
+	"github.com/allen-ping/goctl/v2/api/tsgen"
+	"github.com/allen-ping/goctl/v2/api/validate"
+	"github.com/allen-ping/goctl/v2/config"
+	"github.com/allen-ping/goctl/v2/internal/cobrax"
+	"github.com/allen-ping/goctl/v2/plugin"
 	"github.com/spf13/cobra"
 )
 

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/v2/pkg/parser/api/assertx"
-	"github.com/SinTod/goctl/v2/pkg/parser/api/parser"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/assertx"
+	"github.com/allen-ping/goctl/v2/pkg/parser/api/parser"
 	"github.com/stretchr/testify/assert"
 )
 

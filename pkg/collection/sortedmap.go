@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/SinTod/goctl/v2/util/stringx"
+	"github.com/allen-ping/goctl/v2/util/stringx"
 )
 
 var (

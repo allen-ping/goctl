@@ -43,10 +43,10 @@ func genLogicByRoute(dir, rootPkg string, cfg *config.Config, group spec.Group, 
 	var requestString string
 	if len(route.ResponseTypeName()) > 0 {
 		resp := responseGoTypeName(route, typesPacket)
-		responseString = "(resp " + resp + ", err *errorx.Error)"
+		responseString = "(resp " + resp + ", err error)"
 		returnString = "return"
 	} else {
-		responseString = "*errorx.Error"
+		responseString = "error"
 		returnString = "return nil"
 	}
 	if len(route.RequestTypeName()) > 0 {
@@ -97,7 +97,8 @@ func genLogicImports(route spec.Route, parentPkg string) string {
 		imports = append(imports, fmt.Sprintf("\"%s\"\n", pathx.JoinPackages(parentPkg, typesDir)))
 	}
 	imports = append(imports, fmt.Sprintf("\"%s/core/logx\"", vars.ProjectOpenSourceURL))
-	imports = append(imports, "errorx \"github.com/go-kratos/kratos/v2/errors\"")
+	//imports = append(imports, "errorx \"github.com/go-kratos/kratos/v2/errors\"")
+	imports = append(imports, `"errors"`)
 	return strings.Join(imports, "\n\t")
 }
 

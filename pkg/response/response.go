@@ -15,7 +15,7 @@ type Body struct {
 
 func Response(w http.ResponseWriter, resp interface{}, err error) {
 	var body Body
-	if errorx.Is(err, nil) {
+	if !errorx.Is(err, nil) {
 		ex := new(errorx.Error)
 		if errorx.As(ex, err) {
 			e := errorx.FromError(err)

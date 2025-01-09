@@ -98,7 +98,7 @@ func genLogicImports(route spec.Route, parentPkg string) string {
 	}
 	imports = append(imports, fmt.Sprintf("\"%s/core/logx\"", vars.ProjectOpenSourceURL))
 	//imports = append(imports, "errorx \"github.com/go-kratos/kratos/v2/errors\"")
-	imports = append(imports, `"errors"`)
+	//imports = append(imports, `"errors"`)
 	return strings.Join(imports, "\n\t")
 }
 

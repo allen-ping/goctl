@@ -11,6 +11,7 @@ type Body struct {
 	Code    int         `json:"code"`
 	Message string      `json:"message"`
 	Data    interface{} `json:"data,omitempty"`
+	Reason  string      `json:"reason,omitempty"`
 }
 
 func Response(w http.ResponseWriter, resp interface{}, err error) {
@@ -21,6 +22,7 @@ func Response(w http.ResponseWriter, resp interface{}, err error) {
 			e := errorx.FromError(err)
 			body.Code = int(e.Code)
 			body.Message = e.Message
+			body.Reason = e.Reason
 		} else {
 			body.Code = errorx.UnknownCode
 			body.Message = err.Error()
